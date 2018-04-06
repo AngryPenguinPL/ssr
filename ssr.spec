@@ -7,7 +7,7 @@ Release:	1
 License:	GPLv3+
 Group:		Video
 Url:		http://www.maartenbaert.be/simplescreenrecorder
-Source0:	https://github.com/MaartenBaert/ssr/archive/%{version}.tar.gz
+Source0:	https://github.com/MaartenBaert/ssr/archive/ssr-%{version}.tar.gz
 Source1:	%{name}.rpmlintrc
 Patch0:		ssr-0.3.8-non-x86.patch
 Patch1:		ssr-0.3.9-ffmpeg-3.5.patch
