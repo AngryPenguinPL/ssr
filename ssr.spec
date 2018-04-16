@@ -29,6 +29,7 @@ BuildRequires:	pkgconfig(xext)
 BuildRequires:	pkgconfig(xfixes)
 BuildRequires:	pkgconfig(xi)
 BuildRequires:	jpeg-devel
+BuildRequires:	qt5-platformtheme-gtk3
 
 BuildRequires:	pkgconfig(harfbuzz)
 BuildRequires:	pkgconfig(fontconfig)
